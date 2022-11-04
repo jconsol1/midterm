@@ -1,0 +1,84 @@
+body{
+    margin:auto;
+    display:inline-block;
+    padding: 0% 3% 3% 5%;
+    background-color: #e1eaea;
+}
+.titlesection{
+    font-family: "Times New Roman", Times, serif;
+    display: inline-block;
+    text-align: left;
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+.articletitle{
+    font-size: 30px;
+    font-weight: 120;
+}
+.subhead{
+    font-size: 20px;
+    font-weight: 100;
+}
+.author{
+    font-size: 17px;
+    font-weight: 120;
+}
+.date{
+    font-style: italic;
+    font-size: 17px;
+    font-weight: 120;
+}
+.images{
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#disaster{
+    width: 40%;
+    height: 40%;
+}
+.section title{
+    margin: auto;
+    float: left;
+    font-size: 20px;
+}
+#key{
+    font-size: 20px;
+    text-align: center;
+    font-weight:bolder;
+}
+.content{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 200;
+}
+#bp{
+    line-height: 1.5;
+    margin-left: 5%;
+    text-align: left;
+    font-size: 20px;
+    font-weight:bold;
+}
+#freq{
+    width: 40%;
+    height: 40%;
+    margin-left: 10px;
+}
+#dev{
+    line-height: 1.6;
+    font-size: 20px;
+    margin-top: 75px;
+}
+#vid{
+    margin-top: 30px;
+    margin-left: 35%;
+}
+.sectiontitle{
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: bold;
+}
+#cost{
+    margin-top: 25px;
+}
