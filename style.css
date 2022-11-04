@@ -63,6 +63,7 @@ body{
 #freq{
     width: 40%;
     height: 40%;
+    margin-top: auto;
     margin-left: 10px;
 }
 #dev{
