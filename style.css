@@ -63,7 +63,6 @@ body{
 #freq{
     width: 40%;
     height: 40%;
-    margin-top: auto;
     margin-left: 10px;
 }
 #dev{
@@ -72,6 +71,8 @@ body{
     margin-top: 75px;
 }
 #vid{
+    display:flex;
+    justify-content: center;
     margin-top: 30px;
     margin-left: 35%;
 }
